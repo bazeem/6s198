@@ -1,4 +1,4 @@
-##Welcome to my 6.s198 Page! Excuse the appearance as I am currently working on it.
+##Welcome to my 6.s198 Page! Excuse the appearance as I am working to improve it.
  
 ## Welcome to GitHub Pages
 
