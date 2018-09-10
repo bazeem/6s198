@@ -1,3 +1,5 @@
+##Welcome to my 6.s198 Page! Excuse the appearance as I am working to improve it.
+ 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bazeem/6s198/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
